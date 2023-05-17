@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@200&display=swap');
+
+
+body {color: #6A6B70;
+  font-family: 'IBM Plex Sans', sans-serif;
+background-color: #26262C;
+font-size: 18px;
+line-height: normal;}
+
+h1 {color: #131316;
+  background-color: #4B4C52;
+  font-size: 70 px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 600;
+  letter-spacing: 8px;
+  line-height: normal;
+}
+h2 {color: #6A6B70;
+  font-family: 'Bebas Neue', sans-serif;
+  line-height: normal;
+}
+h3 {color: #6A6B70;
+  font-family: 'IBM Plex Sans', sans-serif;
+  line-height: normal;
+}
+img {width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 480px;
+   }
+.logo_links{color: whitesmoke;
+text-decoration: none;
+}
+a:hover{color: red;}
+.intro_center{width: 400px;
+  margin: auto;
+height: 100;
+background-color: #4B4C52;
+text-align: center;
+padding: 2%;}
+.description_center{text-align: center;
+margin: auto;
+}
+.images_center{text-align: center;
+  image-rendering: auto;
+}
+.video_center{text-align: center;}
+
+.link_align{text-align: center;
+}
+.button_center{display: block;}
